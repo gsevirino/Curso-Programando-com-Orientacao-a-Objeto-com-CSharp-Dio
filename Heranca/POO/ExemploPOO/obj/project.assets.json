@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Abstracao\\POO\\ExemploPOO\\ExemploPOO.csproj",
+      "projectUniqueName": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Heranca\\POO\\ExemploPOO\\ExemploPOO.csproj",
       "projectName": "ExemploPOO",
-      "projectPath": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Abstracao\\POO\\ExemploPOO\\ExemploPOO.csproj",
+      "projectPath": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Heranca\\POO\\ExemploPOO\\ExemploPOO.csproj",
       "packagesPath": "C:\\Users\\gisla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Abstracao\\POO\\ExemploPOO\\obj\\",
+      "outputPath": "C:\\Users\\gisla\\Desktop\\DIO\\Subir\\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\\Heranca\\POO\\ExemploPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gisla\\AppData\\Roaming\\NuGet\\NuGet.Config"

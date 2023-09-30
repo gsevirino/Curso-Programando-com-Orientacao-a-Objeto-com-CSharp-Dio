@@ -1,0 +1,4 @@
+C:\Users\gisla\Desktop\DIO\Subir\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\Abstracao\POO\ExemploPOO\obj\Debug\net7.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisla\Desktop\DIO\Subir\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\Abstracao\POO\ExemploPOO\obj\Debug\net7.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\gisla\Desktop\DIO\Subir\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\Abstracao\POO\ExemploPOO\obj\Debug\net7.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\gisla\Desktop\DIO\Subir\Curso-Programando-com-Orientacao-a-Objeto-com-CSharp-Dio\Abstracao\POO\ExemploPOO\obj\Debug\net7.0\ExemploPOO.csproj.CoreCompileInputs.cache
